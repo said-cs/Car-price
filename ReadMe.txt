@@ -1,0 +1,1 @@
+The main objective is not to compete but to keep up with the linear regression
